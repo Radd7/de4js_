@@ -30,3 +30,4 @@ exclude:
 incremental: false
 
 environment: production
+exclude: [vendor]
