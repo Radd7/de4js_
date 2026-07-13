@@ -30,4 +30,4 @@ exclude:
 incremental: false
 
 environment: production
-exclude: [vendor]
+exclude: [vendor, node_modules]
